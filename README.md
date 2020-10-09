@@ -18,3 +18,8 @@ hei og hå ja
 
 commit #1
 commit #2
+
+og noe til
+og noe til
+og noe til
+og noe til
