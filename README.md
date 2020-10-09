@@ -11,6 +11,8 @@ asdfadsffdas
 
 hei og hå ja
 
+endret noe etter stage
+
 # God jul! 
 
 ## ... og god påske 
