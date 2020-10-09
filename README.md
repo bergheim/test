@@ -9,11 +9,17 @@ asdfadsffdas
 
 ### Enda lengre under
 
-hei og hå
+hei og hå ja
 
 # God jul! 
 
 ## ... og god påske 
 
+
 Endring for Git app 
+
+og noe til
+og noe til
+og noe til
+og noe til
 
