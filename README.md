@@ -3,6 +3,8 @@
 Dette er en test. Og en til test
 Dette er en test til
 
+annen hunk
+
 ## Undertekst
 
 asdfadsffdas
@@ -22,4 +24,6 @@ og noe til
 og noe til
 og noe til
 og noe til
+
+Nå skal det stages!!!
 
